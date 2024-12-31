@@ -4,19 +4,19 @@ Este projeto permite que os usuários enviem mensagens diretamente para qualquer
 
 ## 🎯 Funcionalidades
 
-Enviar mensagens para qualquer número com código de país.
+- Enviar mensagens para qualquer número com código de país.
 
-Interface responsiva e adaptada para dispositivos móveis.
+- nterface responsiva e adaptada para dispositivos móveis.
 
-Design moderno com tema escuro.
+- Design moderno com tema escuro.
 
 ## 🛠️ Tecnologias Utilizadas
 
-**HTML:** Estrutura da aplicação.
+- **HTML:** Estrutura da aplicação.
 
-**CSS:** Estilização com layout responsivo.
+- **CSS:** Estilização com layout responsivo.
 
-**JavaScript:** Lógica de funcionamento do formulário.
+- **JavaScript:** Lógica de funcionamento do formulário.
 
 ## 📂 Estrutura do Projeto
 
@@ -29,27 +29,27 @@ Design moderno com tema escuro.
 
 ## 🚀 Como Usar
 
-Clone este repositório:
+1. Clone este repositório:
 
    ```bash
    git clone https://github.com/Ninja1375/Enviar-mensagem-whatsapp.git
    ```
-Navegue até o diretório do projeto:
+2. Navegue até o diretório do projeto:
 
    ```bash
    cd Enviar-mensagem-whatsapp
    ```
-Abra o arquivo `index.html` em seu navegador:
+3. Abra o arquivo `index.html` em seu navegador:
 
    ```bash
    start index.html
    ```
-Preencha os campos:
+4. Preencha os campos:
 
-Número do celular: Insira o número no formato internacional (ex.: 5511999999999 para Brasil).
+- **Número do celular:** Insira o número no formato internacional (ex.: `5511999999999` para Brasil).
 
-Mensagem: Digite a mensagem desejada.
+- **Mensagem:** Digite a mensagem desejada.
 
-Clique no botão Enviar Mensagem para abrir o WhatsApp .
+- Clique no botão Enviar Mensagem para abrir o WhatsApp .
 
-Qualquer dúvida ou sugestão, fique à vontade para abrir uma issue.
+Qualquer dúvida ou sugestão, fique à vontade para abrir uma `issue`.
